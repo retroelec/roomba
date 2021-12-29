@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/internalIP"
+        android:title="@string/internalIP" />
+    <item android:id="@+id/externalIP"
+        android:title="@string/externalIP" />
+</menu>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Roomba App</string>
+    <string name="internalIP">Internal IP</string>
+    <string name="externalIP">External IP</string>
+</resources>
